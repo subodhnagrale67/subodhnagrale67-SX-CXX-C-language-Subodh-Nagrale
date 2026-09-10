@@ -1,0 +1,17 @@
+#include <stdio.h>
+
+int main() {
+    int x = 10;
+    int y = 12;
+    printf("x=%d,y=%d \n",x,y);
+    
+    printf("bitwise AND   (x & y):- %d\n",x&y);
+    printf("bitwise OR  (x|y):- %d\n",x|y);
+    printf("bitwise XOR (x^y):- %d\n",x^y);
+    printf("bitwise NOT (~x):- %d\n",~x);
+    printf("bitwise NOT (~y):- %d\n",~y);
+    printf("left shift (x<<y):- %d \n",x<<y);
+    printf("right shift (x>>y):- %d \n",x>>y);
+    
+    return 0;
+}
