@@ -1,0 +1,7 @@
+#include <stdio.h>
+
+int main() {
+    signed short int i =32769;
+    printf("%d",i);
+    return 0;
+}
