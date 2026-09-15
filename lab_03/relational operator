@@ -3,8 +3,8 @@
 int main() {
     int x = 10;
     int y = 12;
+    printf("SUBODH NAGRALE \n");
     printf("x=%d,y=%d \n",x,y);
-    printf("SUBODH NAGRALE\n")
     printf("is x equal to y?  :- %d\n    ",x==y);
     printf("is x not equal to y? :- %d\n",x!=y);
     printf("is x greater than y? :- %d\n",x>y);
