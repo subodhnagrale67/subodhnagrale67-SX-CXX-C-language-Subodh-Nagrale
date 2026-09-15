@@ -3,8 +3,8 @@
 int main() {
     int x = 10;
     int y = 12;
+    printf("SUBODH NAGRALE \n");
     printf("x=%d,y=%d \n",x,y);
-    printf("SUBODH NAGRALE\n");
     printf("bitwise AND   :- %d\n",x&y);
     printf("bitwise OR  :- %d\n",x|y);
     printf("bitwise XOR :- %d\n",x^y);
