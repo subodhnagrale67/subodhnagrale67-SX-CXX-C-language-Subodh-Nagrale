@@ -4,7 +4,7 @@ int main() {
     int a;
     int b;
     int c;
-    printf("SUBODH NAGRALE \n")
+    printf("SUBODH NAGRALE \n");
     printf("give value for a:- \n");
     scanf("%d",&a);
     printf("give value for b:- \n");
