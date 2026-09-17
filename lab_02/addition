@@ -5,9 +5,9 @@ int main() {
     int a;
     int b;
     int c;
-    printf("give value for a:- \n");
+    printf("give value for a:- ");
     scanf("%d",&a);
-    printf("give value for b:- \n");
+    printf("give value for b:- ");
     scanf("%d",&b);
     c=a+b;
     printf("answer is:-%d \n",c);
