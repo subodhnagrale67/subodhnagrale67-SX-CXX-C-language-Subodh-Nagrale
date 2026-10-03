@@ -3,7 +3,7 @@
 int main() {
     int a=5;
     int b;
-    b=++a;
+    b=--a;
     printf("SUBODH NAGRALE \n");
     printf("b:%d, a:%d \n",b,a);
     
